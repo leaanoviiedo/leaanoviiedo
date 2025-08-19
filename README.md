@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://profile-counter.glitch.me/leaanoviiedo/count.svg?"  />
-</div>
-
 ###
 
 <p align="left">Hello World!!</p>

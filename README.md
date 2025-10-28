@@ -1,29 +1,31 @@
-###
+# Leandro Oviedo (leaanoviiedo)  
+*Desarrollador Backend & DevOps | Especialista en Laravel, Livewire, Automatización e Infraestructura*
 
-<p align="left">Hello World!!</p>
+📍 Berazategui, Buenos Aires, Argentina  
+🌐 [oviedo.ar](https://oviedo.ar) | [LinkedIn](https://www.linkedin.com/in/leandrooviedo96) | [Instagram](https://www.instagram.com/leaanoviiedo)
 
-###
+---
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-</div>
+## 👨‍💻 Sobre mí  
+Soy un desarrollador orientado al backend con sólida experiencia en el ecosistema PHP y Laravel, trabajo diario con Livewire para interfaces dinámicas, y gestiono entornos de servidor e infraestructura con Docker, Raspberry Pi y Apache/MariaDB.  
+Me especializo en crear sistemas internos administrativos, microservicios y automatizaciones que optimizan flujos de trabajo y permiten una gestión centralizada de múltiples proyectos.  
+También me familiarizo con modelos de IA locales, y con la integración de herramientas como facturación electrónica y scraping automatizado.
 
-###
+---
 
-<img src="https://raw.githubusercontent.com/leaanoviiedo/leaanoviiedo/output/snake.svg" alt="Snake animation" />
+## 🛠 Tecnologías principales  
+- **Lenguajes**: PHP, C#, Go 
+- **Frameworks / Librerías**: Laravel, Livewire, Bootstrap  
+- **DevOps / Infraestructura**: Docker, Raspberry Pi, Apache, MariaDB  
+- **Otros ámbitos**: Automatización de tareas, integración de facturación electrónica (AFIP), scraping en Python, paneles administrativos multi-proyecto.
 
-###
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leaanoviiedo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leaanoviiedo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leaanoviiedo&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+## 📊 GitHub Stats  
+![Tu actividad de GitHub](https://github-readme-stats.vercel.app/api?username=leaanoviiedo&show_icons=true&theme=radical)  
+![Top lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=leaanoviiedo&layout=compact&theme=radical)
 
-###
+---
+
+> “Nunca dejes de aprender; en tecnología, lo que es estándar hoy puede ser obsoleto mañana.”
+

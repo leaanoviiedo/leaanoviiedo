@@ -21,11 +21,5 @@ También me familiarizo con modelos de IA locales, y con la integración de herr
 
 ---
 
-## 📊 GitHub Stats  
-![Tu actividad de GitHub](https://github-readme-stats.vercel.app/api?username=leaanoviiedo&show_icons=true&theme=radical)  
-![Top lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=leaanoviiedo&layout=compact&theme=radical)
-
----
-
 > “Nunca dejes de aprender; en tecnología, lo que es estándar hoy puede ser obsoleto mañana.”
 
